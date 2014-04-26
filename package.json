@@ -1,0 +1,30 @@
+{
+  "name": "close-enough",
+  "version": "0.0.1",
+  "description": "Emulating the works of Abstract Expressionist Chuck Close with HTML and JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/furf/close-enough.git"
+  },
+  "author": "Dave Furfero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/furf/close-enough/issues"
+  },
+  "homepage": "https://github.com/furf/close-enough",
+  "devDependencies": {
+    "browserify": "^3.38.1",
+    "grunt": "^0.4.4",
+    "grunt-browserify": "^2.0.3",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-uglify": "^0.4.0",
+    "grunt-contrib-watch": "^0.6.1"
+  },
+  "dependencies": {
+    "extend": "~1.2.1"
+  }
+}

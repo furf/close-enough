@@ -1,4 +1,4 @@
-close-enough
+Close Enough
 ============
 
-"Close Enough" ~ Emulating the work of abstract expressionist painter Chuck Close with JavaScript.
+Using JavaScript to Emulate the Abstract Expressionist Masterworks of Chuck Close
